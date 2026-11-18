@@ -1,3 +1,4 @@
+
 # django-todo
 A simple todo app built with django
 
@@ -36,3 +37,6 @@ $ python manage.py runserver
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
 Cheers and Happy Coding :)
+# django-to-do
+Django To-Do Application - DevOps Jenkins CI/CD Practice
+origin/main
